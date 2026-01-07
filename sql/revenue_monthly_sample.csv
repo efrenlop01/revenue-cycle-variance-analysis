@@ -1,0 +1,4 @@
+SELECT * FROM revenue_monthly
+ORDER BY month, payor
+LIMIT 50;
+
