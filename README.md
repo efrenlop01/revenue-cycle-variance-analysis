@@ -51,3 +51,9 @@ Metrics include:
 - AR aging analysis
 - Payor policy impact review
 
+## Key Findings
+- Cigna and Medi-Cal exhibit the highest denial rates across multiple service lines.
+- Self-Pay and Medicare show stronger collection efficiency than commercial payors.
+- Average days to payment varies significantly by payor, indicating AR risk concentration.
+- Certain service lines (e.g., Lab and Imaging) show higher denial frequency despite lower billed amounts.
+
