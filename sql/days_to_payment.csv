@@ -1,0 +1,601 @@
+month,payor,service_line,total_claims,avg_days_to_payment
+2024-01,Aetna,Inpatient,1,21.0000
+2024-01,Aetna,Lab,1,13.0000
+2024-01,Aetna,Outpatient,4,32.0000
+2024-01,Aetna,Surgery,1,14.0000
+2024-01,"Blue Cross",Imaging,1,10.0000
+2024-01,"Blue Cross",Inpatient,1,33.0000
+2024-01,"Blue Cross",Lab,1,22.0000
+2024-01,"Blue Cross",Outpatient,2,25.0000
+2024-01,Cigna,Lab,1,43.0000
+2024-01,Cigna,Surgery,1,44.0000
+2024-01,Kaiser,Imaging,1,36.0000
+2024-01,Kaiser,Lab,2,37.5000
+2024-01,Kaiser,Outpatient,2,18.0000
+2024-01,Medi-Cal,Imaging,1,26.0000
+2024-01,Medi-Cal,Inpatient,2,17.5000
+2024-01,Medi-Cal,Lab,5,35.8000
+2024-01,Medi-Cal,Outpatient,5,42.2857
+2024-01,Medi-Cal,Surgery,1,39.0000
+2024-01,Medicare,Emergency,1,10.0000
+2024-01,Medicare,Inpatient,2,29.5000
+2024-01,Medicare,Outpatient,5,26.4000
+2024-01,Medicare,Surgery,1,22.0000
+2024-01,Self-Pay,Outpatient,2,19.0000
+2024-01,Self-Pay,Surgery,1,23.0000
+2024-01,United,Lab,1,13.0000
+2024-01,United,"Primary Care",1,21.0000
+2024-02,Aetna,Emergency,1,19.0000
+2024-02,Aetna,Inpatient,1,25.0000
+2024-02,Aetna,Outpatient,1,27.0000
+2024-02,Aetna,"Specialty Clinic",2,36.5000
+2024-02,"Blue Cross",Lab,1,30.0000
+2024-02,"Blue Cross",Surgery,2,15.0000
+2024-02,Cigna,Inpatient,1,16.0000
+2024-02,Cigna,Surgery,1,16.0000
+2024-02,Kaiser,"Specialty Clinic",1,5.0000
+2024-02,Medi-Cal,Lab,2,21.5000
+2024-02,Medi-Cal,Outpatient,1,45.0000
+2024-02,Medi-Cal,"Specialty Clinic",1,38.0000
+2024-02,Medi-Cal,Surgery,1,30.0000
+2024-02,Medicare,Imaging,1,27.5000
+2024-02,Medicare,Outpatient,2,23.0000
+2024-02,Medicare,"Primary Care",1,41.0000
+2024-02,Medicare,Surgery,1,39.0000
+2024-02,Self-Pay,Imaging,2,13.5000
+2024-02,Self-Pay,"Primary Care",1,32.0000
+2024-02,Self-Pay,Surgery,1,28.0000
+2024-02,United,Lab,2,30.0000
+2024-02,United,Outpatient,1,32.0000
+2024-02,United,"Specialty Clinic",1,29.0000
+2024-03,Aetna,Lab,2,33.0000
+2024-03,Aetna,"Specialty Clinic",1,40.0000
+2024-03,"Blue Cross",Inpatient,3,12.6667
+2024-03,Cigna,"Primary Care",2,46.0000
+2024-03,Cigna,Surgery,1,14.0000
+2024-03,Kaiser,Emergency,1,9.0000
+2024-03,Kaiser,"Specialty Clinic",1,16.0000
+2024-03,Medi-Cal,Emergency,1,49.0000
+2024-03,Medi-Cal,Lab,1,30.0000
+2024-03,Medi-Cal,Outpatient,2,37.0000
+2024-03,Medicare,Inpatient,2,31.5000
+2024-03,Medicare,"Primary Care",1,10.0000
+2024-03,Medicare,"Specialty Clinic",2,41.0000
+2024-03,Self-Pay,Outpatient,1,18.0000
+2024-03,United,Inpatient,1,44.0000
+2024-04,Aetna,Inpatient,2,38.0000
+2024-04,"Blue Cross",Emergency,1,20.0000
+2024-04,"Blue Cross",Imaging,1,44.5000
+2024-04,"Blue Cross",Lab,1,29.0000
+2024-04,Cigna,Emergency,3,19.6667
+2024-04,Cigna,"Primary Care",1,17.0000
+2024-04,Kaiser,Inpatient,1,17.0000
+2024-04,Kaiser,Outpatient,1,5.0000
+2024-04,Medi-Cal,Emergency,2,32.5000
+2024-04,Medi-Cal,Inpatient,1,30.0000
+2024-04,Medi-Cal,Lab,1,11.0000
+2024-04,Medi-Cal,"Primary Care",1,61.5000
+2024-04,Medicare,Emergency,3,21.3333
+2024-04,Medicare,Imaging,1,14.0000
+2024-04,Medicare,Inpatient,1,8.0000
+2024-04,Medicare,Lab,1,15.0000
+2024-04,Medicare,"Primary Care",1,15.0000
+2024-04,Self-Pay,Emergency,2,31.0000
+2024-04,Self-Pay,Outpatient,1,17.0000
+2024-04,Self-Pay,"Primary Care",1,24.0000
+2024-04,United,Emergency,2,35.0000
+2024-04,United,Imaging,3,21.5000
+2024-04,United,Lab,1,16.0000
+2024-04,United,Outpatient,1,26.0000
+2024-04,United,"Primary Care",1,36.0000
+2024-04,United,Surgery,1,34.0000
+2024-05,Aetna,Emergency,1,32.0000
+2024-05,Aetna,Imaging,1,21.0000
+2024-05,Aetna,Lab,1,42.0000
+2024-05,Aetna,"Primary Care",3,40.2500
+2024-05,Aetna,"Specialty Clinic",1,19.0000
+2024-05,Aetna,Surgery,1,37.0000
+2024-05,"Blue Cross",Emergency,1,11.0000
+2024-05,"Blue Cross",Imaging,2,20.5000
+2024-05,"Blue Cross",Inpatient,2,23.0000
+2024-05,"Blue Cross",Outpatient,1,14.0000
+2024-05,"Blue Cross","Specialty Clinic",1,12.0000
+2024-05,Cigna,Outpatient,1,41.0000
+2024-05,Cigna,"Specialty Clinic",1,21.0000
+2024-05,Kaiser,Imaging,1,25.0000
+2024-05,Kaiser,Inpatient,1,32.0000
+2024-05,Kaiser,Lab,3,15.0000
+2024-05,Kaiser,Outpatient,1,38.0000
+2024-05,Medi-Cal,Lab,1,23.0000
+2024-05,Medi-Cal,Outpatient,3,33.6667
+2024-05,Medi-Cal,"Primary Care",2,18.0000
+2024-05,Medicare,Emergency,2,10.0000
+2024-05,Medicare,Imaging,2,28.0000
+2024-05,Medicare,Outpatient,1,14.0000
+2024-05,Medicare,Surgery,1,5.0000
+2024-05,Self-Pay,Emergency,1,19.0000
+2024-05,Self-Pay,Outpatient,2,26.0000
+2024-05,Self-Pay,Surgery,1,19.0000
+2024-05,United,Emergency,1,34.0000
+2024-05,United,Outpatient,3,25.0000
+2024-05,United,"Primary Care",3,35.5000
+2024-05,United,"Specialty Clinic",1,27.0000
+2024-05,United,Surgery,1,20.0000
+2024-06,Aetna,Emergency,1,26.0000
+2024-06,Aetna,Outpatient,1,18.0000
+2024-06,Aetna,Surgery,1,29.0000
+2024-06,"Blue Cross",Inpatient,1,45.0000
+2024-06,"Blue Cross",Outpatient,1,16.0000
+2024-06,"Blue Cross","Primary Care",1,34.0000
+2024-06,"Blue Cross","Specialty Clinic",1,10.0000
+2024-06,Cigna,Emergency,1,5.0000
+2024-06,Cigna,Lab,1,47.0000
+2024-06,Cigna,"Specialty Clinic",1,10.0000
+2024-06,Kaiser,Inpatient,1,30.0000
+2024-06,Kaiser,Lab,3,16.3333
+2024-06,Kaiser,Outpatient,3,14.6667
+2024-06,Kaiser,"Specialty Clinic",1,35.0000
+2024-06,Medi-Cal,Imaging,1,28.0000
+2024-06,Medi-Cal,Inpatient,2,53.5000
+2024-06,Medi-Cal,Lab,1,20.0000
+2024-06,Medi-Cal,Outpatient,3,23.6667
+2024-06,Medi-Cal,Surgery,1,48.0000
+2024-06,Medicare,Imaging,3,22.3333
+2024-06,Medicare,Inpatient,2,23.5000
+2024-06,Medicare,Lab,1,27.0000
+2024-06,Medicare,Outpatient,1,19.0000
+2024-06,Medicare,Surgery,1,25.0000
+2024-06,Self-Pay,Outpatient,2,32.5000
+2024-06,United,Inpatient,3,27.3333
+2024-06,United,Lab,1,50.0000
+2024-06,United,Surgery,1,34.0000
+2024-07,Aetna,Emergency,3,19.6667
+2024-07,Aetna,"Primary Care",1,26.0000
+2024-07,Aetna,Surgery,1,31.0000
+2024-07,"Blue Cross",Emergency,1,35.0000
+2024-07,Cigna,Lab,1,24.0000
+2024-07,Kaiser,Imaging,1,11.0000
+2024-07,Medi-Cal,Emergency,1,22.0000
+2024-07,Medi-Cal,Inpatient,1,28.0000
+2024-07,Medicare,Imaging,3,14.6667
+2024-07,Medicare,Inpatient,1,33.0000
+2024-07,Medicare,Lab,1,40.0000
+2024-07,Medicare,Outpatient,1,40.0000
+2024-07,Self-Pay,Imaging,2,32.0000
+2024-07,Self-Pay,Surgery,1,30.0000
+2024-07,United,Emergency,1,27.0000
+2024-08,Aetna,Emergency,1,18.0000
+2024-08,Aetna,Outpatient,1,38.0000
+2024-08,"Blue Cross",Lab,3,24.6667
+2024-08,"Blue Cross",Outpatient,1,23.0000
+2024-08,Kaiser,Inpatient,1,32.0000
+2024-08,Kaiser,Lab,2,24.0000
+2024-08,Kaiser,Outpatient,3,15.6667
+2024-08,Medi-Cal,Emergency,1,58.0000
+2024-08,Medi-Cal,Imaging,1,52.0000
+2024-08,Medi-Cal,"Primary Care",1,46.0000
+2024-08,Medicare,Emergency,1,32.0000
+2024-08,Medicare,Imaging,1,25.0000
+2024-08,Medicare,Inpatient,1,38.0000
+2024-08,Medicare,Lab,2,7.5000
+2024-08,Medicare,Outpatient,5,9.6000
+2024-08,Medicare,"Primary Care",1,16.0000
+2024-08,Medicare,"Specialty Clinic",1,44.0000
+2024-08,Medicare,Surgery,1,11.0000
+2024-08,Self-Pay,Imaging,3,25.6667
+2024-08,Self-Pay,Outpatient,1,25.0000
+2024-08,Self-Pay,"Specialty Clinic",1,17.0000
+2024-08,United,Imaging,1,25.0000
+2024-08,United,Outpatient,2,22.0000
+2024-08,United,"Specialty Clinic",1,13.0000
+2024-09,Aetna,Inpatient,1,18.0000
+2024-09,Aetna,Surgery,1,10.0000
+2024-09,"Blue Cross",Inpatient,1,46.0000
+2024-09,"Blue Cross",Lab,1,46.0000
+2024-09,"Blue Cross",Outpatient,1,25.0000
+2024-09,"Blue Cross","Primary Care",1,33.0000
+2024-09,Cigna,Lab,2,13.5000
+2024-09,Cigna,Outpatient,1,38.0000
+2024-09,Cigna,"Specialty Clinic",1,45.0000
+2024-09,Kaiser,Imaging,1,20.0000
+2024-09,Kaiser,Outpatient,1,32.0000
+2024-09,Kaiser,Surgery,1,8.0000
+2024-09,Medi-Cal,Lab,1,2.0000
+2024-09,Medi-Cal,Outpatient,2,23.0000
+2024-09,Medi-Cal,Surgery,1,17.0000
+2024-09,Medicare,Emergency,2,7.5000
+2024-09,Medicare,Outpatient,2,34.6667
+2024-09,Medicare,"Primary Care",2,32.5000
+2024-09,Medicare,"Specialty Clinic",1,20.0000
+2024-09,Medicare,Surgery,1,37.0000
+2024-09,United,Emergency,1,19.0000
+2024-09,United,Inpatient,2,26.0000
+2024-10,Aetna,Inpatient,1,36.0000
+2024-10,Aetna,"Primary Care",1,26.0000
+2024-10,"Blue Cross",Inpatient,1,40.0000
+2024-10,"Blue Cross",Outpatient,1,36.0000
+2024-10,"Blue Cross",Surgery,2,27.5000
+2024-10,Cigna,Emergency,1,13.0000
+2024-10,Cigna,Inpatient,1,36.0000
+2024-10,Cigna,Lab,1,34.0000
+2024-10,Cigna,Surgery,1,13.0000
+2024-10,Kaiser,Lab,1,35.0000
+2024-10,Kaiser,Outpatient,2,28.0000
+2024-10,Kaiser,"Primary Care",2,25.5000
+2024-10,Kaiser,"Specialty Clinic",1,16.0000
+2024-10,Medi-Cal,Emergency,3,40.6667
+2024-10,Medi-Cal,Imaging,2,36.5000
+2024-10,Medi-Cal,Inpatient,1,7.0000
+2024-10,Medi-Cal,"Primary Care",1,33.0000
+2024-10,Medi-Cal,"Specialty Clinic",1,51.0000
+2024-10,Medicare,Emergency,3,15.6667
+2024-10,Medicare,Inpatient,1,34.0000
+2024-10,Medicare,Outpatient,1,23.0000
+2024-10,Medicare,"Specialty Clinic",1,11.0000
+2024-10,Self-Pay,Inpatient,3,22.0000
+2024-10,Self-Pay,Outpatient,1,25.0000
+2024-10,Self-Pay,"Primary Care",1,7.0000
+2024-10,United,Outpatient,1,20.0000
+2024-10,United,"Primary Care",1,52.0000
+2024-10,United,"Specialty Clinic",1,46.0000
+2024-11,Aetna,Lab,1,35.0000
+2024-11,Aetna,Outpatient,1,21.0000
+2024-11,Aetna,"Specialty Clinic",1,17.0000
+2024-11,"Blue Cross",Imaging,1,32.0000
+2024-11,"Blue Cross",Inpatient,1,19.0000
+2024-11,"Blue Cross",Lab,3,18.3333
+2024-11,Cigna,Lab,1,27.0000
+2024-11,Cigna,"Specialty Clinic",1,21.0000
+2024-11,Kaiser,Lab,1,19.0000
+2024-11,Kaiser,"Specialty Clinic",2,24.0000
+2024-11,Medi-Cal,Inpatient,2,38.0000
+2024-11,Medi-Cal,Lab,1,35.0000
+2024-11,Medi-Cal,Outpatient,1,28.0000
+2024-11,Medi-Cal,"Primary Care",1,35.0000
+2024-11,Medi-Cal,"Specialty Clinic",1,10.0000
+2024-11,Medicare,Outpatient,1,31.0000
+2024-11,Medicare,"Specialty Clinic",1,29.0000
+2024-11,Self-Pay,Imaging,1,13.0000
+2024-11,Self-Pay,Inpatient,2,32.0000
+2024-11,United,Inpatient,4,25.2500
+2024-11,United,Outpatient,1,21.0000
+2024-11,United,"Specialty Clinic",1,36.0000
+2024-12,Aetna,Imaging,1,30.0000
+2024-12,Aetna,Outpatient,1,24.0000
+2024-12,"Blue Cross",Imaging,1,5.0000
+2024-12,"Blue Cross","Primary Care",3,33.0000
+2024-12,"Blue Cross","Specialty Clinic",2,31.5000
+2024-12,Cigna,Lab,1,23.0000
+2024-12,Cigna,"Primary Care",1,36.0000
+2024-12,Cigna,"Specialty Clinic",1,47.0000
+2024-12,Kaiser,Inpatient,2,12.5000
+2024-12,Kaiser,Lab,2,15.0000
+2024-12,Kaiser,Outpatient,1,34.0000
+2024-12,Medi-Cal,Emergency,1,26.0000
+2024-12,Medi-Cal,Inpatient,3,28.3333
+2024-12,Medi-Cal,Outpatient,1,35.0000
+2024-12,Medi-Cal,"Primary Care",2,26.5000
+2024-12,Medi-Cal,"Specialty Clinic",1,33.0000
+2024-12,Medicare,Imaging,1,18.0000
+2024-12,Medicare,Lab,1,22.0000
+2024-12,Medicare,"Primary Care",1,20.0000
+2024-12,Self-Pay,Imaging,2,26.0000
+2024-12,Self-Pay,Inpatient,1,49.0000
+2024-12,Self-Pay,"Specialty Clinic",1,37.0000
+2024-12,Self-Pay,Surgery,1,26.0000
+2024-12,United,Lab,1,29.0000
+2024-12,United,"Primary Care",1,13.0000
+2025-01,Aetna,Imaging,1,39.0000
+2025-01,Aetna,Inpatient,1,22.0000
+2025-01,"Blue Cross",Outpatient,2,48.5000
+2025-01,"Blue Cross",Surgery,1,34.0000
+2025-01,Cigna,Outpatient,1,33.0000
+2025-01,Medi-Cal,Inpatient,1,53.0000
+2025-01,Medi-Cal,Lab,1,16.0000
+2025-01,Medi-Cal,Outpatient,1,15.0000
+2025-01,Medi-Cal,Surgery,2,44.5000
+2025-01,Medicare,Lab,3,17.3333
+2025-01,Medicare,Surgery,2,27.0000
+2025-01,Self-Pay,Emergency,1,28.0000
+2025-01,Self-Pay,Lab,1,18.0000
+2025-01,Self-Pay,Outpatient,1,23.0000
+2025-01,United,Inpatient,2,32.5000
+2025-01,United,Lab,1,26.0000
+2025-01,United,"Primary Care",1,48.0000
+2025-02,Aetna,Imaging,2,43.3333
+2025-02,"Blue Cross",Inpatient,2,9.5000
+2025-02,Cigna,Emergency,1,33.0000
+2025-02,Cigna,Imaging,1,36.0000
+2025-02,Kaiser,Emergency,1,23.0000
+2025-02,Kaiser,Inpatient,2,18.5000
+2025-02,Kaiser,Outpatient,3,22.6667
+2025-02,Kaiser,"Primary Care",1,29.0000
+2025-02,Medi-Cal,Emergency,1,21.0000
+2025-02,Medi-Cal,Imaging,1,51.0000
+2025-02,Medi-Cal,Inpatient,2,30.5000
+2025-02,Medi-Cal,Outpatient,1,52.0000
+2025-02,Medicare,Emergency,2,27.5000
+2025-02,Medicare,Imaging,1,28.0000
+2025-02,Medicare,Inpatient,1,30.0000
+2025-02,Medicare,Outpatient,1,11.0000
+2025-02,Self-Pay,Emergency,1,15.0000
+2025-02,Self-Pay,Surgery,1,20.0000
+2025-02,United,Imaging,1,34.0000
+2025-02,United,Outpatient,2,36.5000
+2025-02,United,Surgery,1,47.0000
+2025-03,Aetna,Lab,1,34.0000
+2025-03,Cigna,Imaging,1,11.0000
+2025-03,Cigna,Inpatient,1,34.0000
+2025-03,Cigna,Outpatient,1,36.0000
+2025-03,Cigna,"Primary Care",2,16.5000
+2025-03,Cigna,"Specialty Clinic",1,29.0000
+2025-03,Kaiser,Emergency,1,17.0000
+2025-03,Kaiser,Imaging,1,10.0000
+2025-03,Kaiser,Inpatient,1,29.0000
+2025-03,Kaiser,"Primary Care",1,16.0000
+2025-03,Medi-Cal,Imaging,1,29.0000
+2025-03,Medi-Cal,Inpatient,1,39.0000
+2025-03,Medi-Cal,Lab,1,56.0000
+2025-03,Medi-Cal,"Primary Care",1,24.0000
+2025-03,Medi-Cal,Surgery,2,25.5000
+2025-03,Medicare,Imaging,1,29.0000
+2025-03,Medicare,Inpatient,2,13.5000
+2025-03,Medicare,Surgery,2,21.0000
+2025-03,Self-Pay,Inpatient,1,37.0000
+2025-03,Self-Pay,Surgery,1,32.0000
+2025-03,United,Inpatient,1,16.0000
+2025-03,United,Lab,2,12.0000
+2025-03,United,Surgery,1,41.0000
+2025-04,Aetna,Emergency,1,40.0000
+2025-04,Aetna,Lab,1,42.0000
+2025-04,Aetna,Outpatient,1,32.0000
+2025-04,Aetna,Surgery,1,38.0000
+2025-04,"Blue Cross",Emergency,1,18.0000
+2025-04,"Blue Cross",Imaging,1,33.0000
+2025-04,"Blue Cross",Inpatient,1,42.0000
+2025-04,Cigna,Emergency,2,32.5000
+2025-04,Cigna,Outpatient,2,31.5000
+2025-04,Cigna,"Specialty Clinic",1,19.0000
+2025-04,Kaiser,Inpatient,1,37.0000
+2025-04,Kaiser,Lab,1,7.0000
+2025-04,Medi-Cal,Inpatient,1,34.0000
+2025-04,Medi-Cal,Lab,1,50.0000
+2025-04,Medi-Cal,"Primary Care",1,35.0000
+2025-04,Medi-Cal,"Specialty Clinic",1,13.0000
+2025-04,Medicare,Imaging,1,11.5000
+2025-04,Medicare,Inpatient,1,26.0000
+2025-04,Medicare,Lab,3,15.0000
+2025-04,Medicare,Outpatient,2,34.6667
+2025-04,Medicare,"Specialty Clinic",1,13.0000
+2025-04,Self-Pay,Emergency,1,26.0000
+2025-04,Self-Pay,Inpatient,1,2.0000
+2025-04,Self-Pay,Lab,1,26.0000
+2025-04,Self-Pay,"Primary Care",1,40.0000
+2025-04,Self-Pay,"Specialty Clinic",1,29.0000
+2025-04,United,Emergency,1,33.0000
+2025-04,United,Inpatient,1,38.0000
+2025-04,United,Lab,2,31.0000
+2025-04,United,Surgery,1,30.0000
+2025-05,Aetna,Lab,1,27.0000
+2025-05,Aetna,Outpatient,1,26.0000
+2025-05,Aetna,"Specialty Clinic",3,10.3333
+2025-05,"Blue Cross",Lab,1,22.0000
+2025-05,"Blue Cross",Outpatient,2,21.0000
+2025-05,Cigna,Outpatient,1,42.0000
+2025-05,Kaiser,Inpatient,2,17.5000
+2025-05,Kaiser,Lab,1,28.0000
+2025-05,Kaiser,Outpatient,1,2.0000
+2025-05,Kaiser,"Primary Care",1,29.0000
+2025-05,Kaiser,"Specialty Clinic",1,32.0000
+2025-05,Medi-Cal,Imaging,2,38.0000
+2025-05,Medi-Cal,Inpatient,1,18.0000
+2025-05,Medi-Cal,Outpatient,4,30.2500
+2025-05,Medi-Cal,Surgery,1,46.0000
+2025-05,Medicare,Inpatient,1,22.0000
+2025-05,Medicare,Outpatient,1,21.0000
+2025-05,Medicare,"Specialty Clinic",2,15.5000
+2025-05,Medicare,Surgery,2,29.0000
+2025-05,Self-Pay,Emergency,1,40.0000
+2025-05,Self-Pay,Lab,1,24.0000
+2025-05,Self-Pay,"Specialty Clinic",1,23.0000
+2025-05,United,Inpatient,1,18.0000
+2025-05,United,Lab,1,7.0000
+2025-05,United,"Primary Care",1,33.0000
+2025-05,United,"Specialty Clinic",1,12.0000
+2025-06,Aetna,Outpatient,1,34.0000
+2025-06,"Blue Cross","Primary Care",1,27.0000
+2025-06,Cigna,Imaging,3,11.3333
+2025-06,Cigna,Lab,1,31.0000
+2025-06,Cigna,"Primary Care",1,39.0000
+2025-06,Kaiser,Lab,1,27.0000
+2025-06,Kaiser,"Specialty Clinic",1,23.0000
+2025-06,Medi-Cal,Imaging,2,26.5000
+2025-06,Medi-Cal,Inpatient,1,14.0000
+2025-06,Medi-Cal,Outpatient,3,33.3333
+2025-06,Medi-Cal,"Primary Care",1,44.0000
+2025-06,Medicare,Emergency,1,47.0000
+2025-06,Medicare,Imaging,1,30.0000
+2025-06,Medicare,Outpatient,1,8.0000
+2025-06,Medicare,"Primary Care",1,27.0000
+2025-06,Self-Pay,Imaging,2,40.0000
+2025-06,Self-Pay,Outpatient,1,43.0000
+2025-06,United,Imaging,1,18.0000
+2025-06,United,Lab,1,18.0000
+2025-06,United,"Specialty Clinic",1,43.0000
+2025-07,Aetna,Imaging,1,11.0000
+2025-07,Aetna,Inpatient,1,45.0000
+2025-07,Aetna,Outpatient,1,27.0000
+2025-07,Aetna,"Primary Care",1,12.0000
+2025-07,Aetna,Surgery,1,39.0000
+2025-07,"Blue Cross",Lab,1,33.0000
+2025-07,"Blue Cross",Outpatient,1,22.0000
+2025-07,Cigna,Imaging,1,6.0000
+2025-07,Kaiser,Emergency,1,37.0000
+2025-07,Kaiser,Inpatient,1,31.0000
+2025-07,Medi-Cal,Emergency,1,21.0000
+2025-07,Medi-Cal,Lab,1,38.0000
+2025-07,Medi-Cal,Outpatient,4,35.0000
+2025-07,Medi-Cal,"Primary Care",2,32.0000
+2025-07,Medicare,Imaging,1,19.0000
+2025-07,Medicare,Inpatient,3,27.0000
+2025-07,Medicare,Lab,3,20.3333
+2025-07,Medicare,Outpatient,3,30.6667
+2025-07,Medicare,"Specialty Clinic",1,21.0000
+2025-07,Self-Pay,Emergency,1,34.0000
+2025-07,Self-Pay,Lab,2,27.0000
+2025-07,Self-Pay,Outpatient,1,24.0000
+2025-07,United,Imaging,2,38.5000
+2025-07,United,Inpatient,1,5.0000
+2025-07,United,Lab,3,12.6667
+2025-07,United,Outpatient,1,39.0000
+2025-08,Aetna,Inpatient,1,27.0000
+2025-08,Aetna,"Primary Care",1,27.0000
+2025-08,"Blue Cross",Emergency,1,17.0000
+2025-08,"Blue Cross",Lab,3,34.6667
+2025-08,"Blue Cross","Primary Care",3,14.0000
+2025-08,"Blue Cross","Specialty Clinic",1,43.0000
+2025-08,Cigna,Lab,2,16.0000
+2025-08,Kaiser,Emergency,4,26.5000
+2025-08,Kaiser,Imaging,1,27.0000
+2025-08,Kaiser,Inpatient,1,27.0000
+2025-08,Kaiser,Lab,2,12.5000
+2025-08,Kaiser,Surgery,2,25.0000
+2025-08,Medi-Cal,Emergency,2,22.0000
+2025-08,Medi-Cal,Inpatient,1,31.0000
+2025-08,Medi-Cal,Lab,1,52.0000
+2025-08,Medi-Cal,"Primary Care",1,21.0000
+2025-08,Medi-Cal,Surgery,1,38.0000
+2025-08,Medicare,Emergency,1,32.0000
+2025-08,Medicare,Lab,2,21.5000
+2025-08,Medicare,Outpatient,1,22.0000
+2025-08,Medicare,"Primary Care",1,21.0000
+2025-08,Self-Pay,Emergency,3,31.3333
+2025-08,Self-Pay,Lab,2,32.0000
+2025-08,United,Emergency,1,31.0000
+2025-08,United,Imaging,1,24.0000
+2025-08,United,Inpatient,1,11.0000
+2025-08,United,Lab,1,12.0000
+2025-08,United,"Primary Care",1,23.0000
+2025-08,United,Surgery,1,12.0000
+2025-09,Aetna,Imaging,1,23.0000
+2025-09,Aetna,Lab,1,36.0000
+2025-09,Aetna,"Specialty Clinic",1,29.0000
+2025-09,Aetna,Surgery,1,2.0000
+2025-09,"Blue Cross",Imaging,1,32.0000
+2025-09,"Blue Cross",Lab,1,34.0000
+2025-09,Cigna,Imaging,3,30.0000
+2025-09,Cigna,Lab,2,30.0000
+2025-09,Cigna,Outpatient,1,41.0000
+2025-09,Cigna,"Primary Care",1,39.0000
+2025-09,Kaiser,Emergency,3,24.6667
+2025-09,Kaiser,Imaging,1,10.0000
+2025-09,Kaiser,Outpatient,2,26.0000
+2025-09,Kaiser,Surgery,1,20.0000
+2025-09,Medi-Cal,Emergency,1,36.0000
+2025-09,Medi-Cal,Imaging,1,12.0000
+2025-09,Medi-Cal,Inpatient,3,34.3333
+2025-09,Medi-Cal,Lab,3,19.0000
+2025-09,Medi-Cal,Outpatient,2,38.5000
+2025-09,Medi-Cal,"Specialty Clinic",1,14.0000
+2025-09,Medi-Cal,Surgery,2,28.5000
+2025-09,Medicare,Imaging,1,7.0000
+2025-09,Medicare,Inpatient,1,35.0000
+2025-09,Medicare,Outpatient,2,18.5000
+2025-09,Self-Pay,Inpatient,1,25.0000
+2025-09,Self-Pay,Lab,1,18.0000
+2025-09,Self-Pay,"Specialty Clinic",1,26.0000
+2025-09,United,Emergency,1,14.0000
+2025-09,United,Imaging,1,18.0000
+2025-09,United,Lab,1,26.0000
+2025-10,Aetna,Imaging,1,22.0000
+2025-10,Aetna,Lab,1,41.0000
+2025-10,"Blue Cross",Lab,1,21.0000
+2025-10,"Blue Cross","Primary Care",2,36.5000
+2025-10,"Blue Cross","Specialty Clinic",2,34.5000
+2025-10,"Blue Cross",Surgery,1,36.0000
+2025-10,Cigna,Emergency,1,26.0000
+2025-10,Cigna,Imaging,1,27.0000
+2025-10,Cigna,Inpatient,1,32.0000
+2025-10,Cigna,Surgery,1,19.0000
+2025-10,Kaiser,Imaging,2,28.0000
+2025-10,Kaiser,"Specialty Clinic",1,24.0000
+2025-10,Medi-Cal,Emergency,1,41.0000
+2025-10,Medi-Cal,Imaging,1,53.0000
+2025-10,Medi-Cal,Lab,2,28.0000
+2025-10,Medi-Cal,Outpatient,2,23.0000
+2025-10,Medi-Cal,"Specialty Clinic",2,56.5000
+2025-10,Medi-Cal,Surgery,2,25.5000
+2025-10,Medicare,Emergency,1,17.0000
+2025-10,Medicare,Lab,3,22.3333
+2025-10,Medicare,"Primary Care",1,11.0000
+2025-10,Medicare,Surgery,1,22.0000
+2025-10,Self-Pay,Emergency,1,44.0000
+2025-10,Self-Pay,Inpatient,1,20.0000
+2025-10,Self-Pay,Lab,1,38.0000
+2025-10,Self-Pay,"Primary Care",3,25.6667
+2025-10,United,Imaging,2,21.0000
+2025-10,United,"Primary Care",1,25.0000
+2025-10,United,Surgery,1,13.0000
+2025-11,Aetna,Emergency,2,32.0000
+2025-11,Aetna,Inpatient,2,17.0000
+2025-11,Aetna,"Primary Care",1,27.0000
+2025-11,Aetna,Surgery,1,12.0000
+2025-11,"Blue Cross",Outpatient,1,33.0000
+2025-11,Cigna,Imaging,1,7.0000
+2025-11,Cigna,Outpatient,1,36.0000
+2025-11,Cigna,"Primary Care",2,9.0000
+2025-11,Cigna,"Specialty Clinic",1,44.0000
+2025-11,Kaiser,Imaging,1,17.0000
+2025-11,Medi-Cal,Emergency,1,29.0000
+2025-11,Medi-Cal,Imaging,1,46.0000
+2025-11,Medi-Cal,Inpatient,1,7.0000
+2025-11,Medi-Cal,Outpatient,1,29.5000
+2025-11,Medi-Cal,"Primary Care",1,32.0000
+2025-11,Medicare,Emergency,1,13.0000
+2025-11,Medicare,Inpatient,1,35.0000
+2025-11,Medicare,Outpatient,2,28.0000
+2025-11,Medicare,"Primary Care",2,19.5000
+2025-11,Medicare,"Specialty Clinic",1,20.0000
+2025-11,Medicare,Surgery,2,23.0000
+2025-11,Self-Pay,Lab,1,35.0000
+2025-11,Self-Pay,"Specialty Clinic",1,19.0000
+2025-11,United,Lab,1,29.0000
+2025-11,United,Outpatient,1,24.0000
+2025-12,Aetna,Emergency,1,-4.0000
+2025-12,Aetna,Imaging,1,13.0000
+2025-12,Aetna,Surgery,1,14.0000
+2025-12,"Blue Cross",Emergency,1,11.0000
+2025-12,"Blue Cross",Imaging,1,13.0000
+2025-12,"Blue Cross",Lab,1,12.0000
+2025-12,Cigna,Imaging,1,8.0000
+2025-12,Cigna,Surgery,1,6.0000
+2025-12,Kaiser,Imaging,1,19.0000
+2025-12,Kaiser,Outpatient,2,15.0000
+2025-12,Kaiser,"Primary Care",1,24.0000
+2025-12,Medi-Cal,Imaging,1,14.0000
+2025-12,Medi-Cal,Inpatient,2,5.5000
+2025-12,Medi-Cal,Lab,1,4.0000
+2025-12,Medi-Cal,Outpatient,3,10.0000
+2025-12,Medi-Cal,Surgery,1,7.0000
+2025-12,Medicare,Imaging,3,15.6667
+2025-12,Medicare,Inpatient,1,14.0000
+2025-12,Medicare,Lab,1,18.0000
+2025-12,Medicare,"Primary Care",1,20.0000
+2025-12,United,Imaging,1,12.0000
+2025-12,United,Lab,1,15.0000
+2025-12,United,Outpatient,1,1.0000
+2026-01,"Blue Cross",Emergency,1,-5.0000
+2026-01,"Blue Cross",Imaging,2,-7.5000
+2026-01,Cigna,"Primary Care",1,-7.0000
+2026-01,Kaiser,Imaging,1,8.0000
+2026-01,Medi-Cal,Inpatient,1,-13.0000
+2026-01,Medi-Cal,Lab,1,-10.0000
+2026-01,Medi-Cal,"Primary Care",1,-6.0000
+2026-01,Medicare,Imaging,1,-9.0000
+2026-01,Medicare,Outpatient,1,-14.0000
+2026-01,Medicare,"Primary Care",1,-9.0000
+2026-01,Self-Pay,Emergency,1,-7.0000
+2026-01,Self-Pay,"Specialty Clinic",2,-13.0000
+2026-01,United,Imaging,1,-7.0000
+2026-01,United,Lab,1,-10.0000
+2026-01,United,Surgery,1,-4.5000
